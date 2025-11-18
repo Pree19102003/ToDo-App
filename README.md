@@ -1,27 +1,19 @@
-# To-Do List App
-
 A simple and clean To-Do List application built using **HTML, CSS, and JavaScript**.
 
-## 🚀 Features
+Features
 - Add new tasks
 - Click on a task to mark it as completed
 - Delete tasks
 - Minimal UI and fully responsive
 - No backend required (pure frontend)
 
-## 🛠️ Technologies Used
+Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## 📂 How to Run
+How to Run
 1. Download or clone this repository.
 2. Open `index.html` in any browser.
 3. Start adding your tasks!
 
-## 📸 Screenshot
-(Add your app screenshot here)
-
----
-
-⭐ If you like this project, give it a star on GitHub!
